@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.common-color{
+  color:#079d70 ;
+}
+.common-button{
+  background-color: #079d70;
+  color: white;
+  font-weight: 500;
+  border: 0px;
+  padding: 10px 10px;
+  border-radius: 7px;
+}

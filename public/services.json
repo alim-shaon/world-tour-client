@@ -1,0 +1,44 @@
+[
+    {
+        "packageName": "Sri Lanka Adventure Package",
+        "img": "https://i.ibb.co/LPgfgMG/srilanka.jpg",
+        "description": "A land of myth, legend, history and one of the richest cultures, Sri Lanka is one of the hottest travel destinations and lures adventurers of all kinds. Perhaps you’re someone who loves the solitude of nature and steady walks through trails. Maybe you love relaxing by the sea with the sun warming your face and a cool breeze caressing your skin. Or, maybe it’s nightlife you crave and a little game of chance at a casino – whatever your thrill is,with the best tourist places to visit in Sri Lanka, this island nation has it all.On this tour we will take to the diverse culture, cuisine, History and ancient  Temples of Sri Lanka amongst others.  Take a deep dive and discover what makes Sri Lanka stand out among its Asian brethren and discover all Sri Lanka has to offer from endless beaches to cities exploding with activity and things to do such as Sigiriya, Nuwara Eliya, Colombo amongst others.",
+        "duration": "5 Days / 4 Nights",
+        "price": "1300"
+    },
+    {
+        "packageName": "Dubai Grand Tour",
+        "img": "https://i.ibb.co/J3nvcy3/dubai.jpg",
+        "description": "Dubai is a modern city in many ways, but there are certain rules that everyone—including tourists—should follow. When it comes to dressing, modesty is best and while you may see people wearing just about everything, it's a good idea to cover your shoulders and knees to be respectful (think a t-shirt and a midi skirt or jeans for women). Travelers who venture out of the city to visit a mosque, like the gorgeous Sheikh Zayed Grand Mosque in nearby Abu Dhabi, will have to dress even more modestly.From our service you can Discover the Real Essence of the Land of the Sky skyscrapers deeply on your Dubai Trip. Make it on Dubai Abu Dhabi package for 8 Days and book yours now! ",
+        "duration": "8 Days / 7 Nights",
+        "price": "650"
+    },
+    {
+        "packageName": "Peru Tour Package",
+        "img": "https: //i.ibb.co/GsW2RCz/peru.jpg",
+        "description": "Spend 5 days in Peru with our Peru Guided Tour and visit Cuzco, Qenqo, Quechua, cross the Sacred Valley, Pisac, Ollantaytambo, Aguas calientes, and finally explore one of world's new wonders, the amazing Machu Picchu! This is a trip that will steal your heart. Come with us and enjoy the best Cusco Machu Picchu Tour.",
+        "duration": "5 Days / 4 Nights",
+        "price": "720"
+    },
+    {
+        "packageName": "Brazil Tour",
+        "img": "https: //i.ibb.co/gwJYYMg/brazil.jpg",
+        "description": "Brazil is South America’s largest nation and, with five FIFA World Cup championships under their belt, home to the most decorated national soccer team in the world. It’s a country so large and varied that it defies easy generalizations. Travel to Brazil, and you’ll find jungles, forests, beaches, mountains, rivers, and two of the world’s largest and busiest cities: São Paulo and Rio de Janeiro. Visit Brazil to discover some of the world’s most scenic landscapes.Enjoy ourfantastic 12 days in Brazil as you could never imagine! Discover the beautiful beaches and tropical lands on Northeast Brazil . Your tour starts in Salvador, capital of Bahia, and you will visit the most amazing beaches of the country, at the same time that relaxes and explore unique places.",
+        "duration": "12 Days / 11 Nights",
+        "price": "920"
+    },
+    {
+        "packageName": "Spain Tour Package",
+        "img": "https: //i.ibb.co/YDQD0Rp/spain.jpg",
+        "description": "Spain’s diverse landscapes stir the soul. The Pyrenees and the Picos de Europa are as beautiful as any mountain range on the continent, while the snowcapped Sierra Nevada rises up improbably from the sun-baked plains of Andalucía; these are hiking destinations of the highest order. The wildly beautiful cliffs of Spain’s Atlantic northwest are offset by the charming coves of the Mediterranean. And everywhere you go, villages of timeless beauty perch on hilltops, huddle in valleys and cling to coastal outcrops as tiny but resilient outposts of Old Spain. That's where the country's charms are most likely to take hold.We are offering you the opportunity to spend 7 days in Span. Balance tours and with the opportunity to explore different Spanish destinations on your own, a perfect match for those who like keeping their freedom. Land in Madrid and visit the main attractions of Córdoba, Seville, Granada, Valencia, Barcelona, and Zaragoza. ",
+        "duration": "7 Days / 6 Nignts",
+        "price": "1200"
+    },
+    {
+        "packageName": "Cairo Tour",
+        "img": "https: //i.ibb.co/2h9P02t/cairo.jpg",
+        "description": "Cairo is the capital of Egypt and the largest city in Africa, with a name that means the victorious city. It is located on both banks of the River Nile near the head of the river's delta in northern Egypt and has been settled for more than 6,000 years, serving as the capital of numerous Egyptian kingdoms. Cairo is known locally as Misr, which is the Arabic name for Egypt, because of its centrality to Egyptian life.",
+        "duration": "8 Days / 7 Nights",
+        "price": "829"
+    }
+]
